@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Faisal Tareque
 - 👀 I’m interested in NLP, Speech, MLOps
-- 🌱 I’m currently learning MLOps
+- 🌱 I’m currently learning RL
 - 💞️ I’m looking to collaborate on NLP, Speech
 - 📫 How to reach me faisaltareque98@gmail.com
 
