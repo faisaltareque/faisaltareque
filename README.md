@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Faisal Tareque
 - 👀 I’m interested in NLP, LLM, Deep Learning, RL, MLOps
 - 🌱 I’m currently learning about RL
-- 💞️ I’m looking for Master's or PhD opportunities
+- 💞️ I’m looking for PhD opportunities
 - 📫 How to reach me faisaltareque98@gmail.com
 
 <!---
